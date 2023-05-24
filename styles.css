@@ -1,2 +1,24 @@
+.holder{
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+	flex-wrap: wrap;
+}
 
-/* Your CSS Code here. */
+.green{
+	background-color: green;
+	height: 100px;
+	width: 100px;
+}
+
+.red{
+	background-color: red;
+	height: 100px;
+	width: 100px;
+}
+
+.blue{
+	background-color: blue;
+	height: 100px;
+	width: 100px;
+}
